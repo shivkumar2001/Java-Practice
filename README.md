@@ -1,2 +1,3 @@
 # Java-Practice
-Prcaticing java
+Prcaticing java 
+this Repo will  have simple java practice code.
